@@ -4,10 +4,12 @@
     <sku>10261442</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
+    <categories>Default Category/Used Cars</categories>
     <name>Honda CR-V</name>
     <price>19500</price>
     <color>red</color>
     <qty>1</qty>
+    <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261443.jpg</base_image>
   </item>
@@ -15,10 +17,12 @@
     <sku>10260978</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
+    <categories>Default Category/Used Cars</categories>
     <name>Volkswagen Passat</name>
     <price>19850</price>
     <color>blue</color>
     <qty>1</qty>
+    <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260979.jpg</base_image>
   </item>
@@ -26,10 +30,12 @@
     <sku>10260928</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
+    <categories>Default Category/Used Cars</categories>
     <name>Skoda Octavia</name>
     <price>12000</price>
     <color>white</color>
     <qty>1</qty>
+    <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261064.jpg</base_image>
   </item>
@@ -37,10 +43,12 @@
     <sku>10260828</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
+    <categories>Default Category/Used Cars</categories>
     <name>Volkswagen Tiguan</name>
     <price>25950</price>
     <color>black</color>
     <qty>1</qty>
+    <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261186.jpg</base_image>
   </item>
@@ -48,10 +56,12 @@
     <sku>10260623</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
+    <categories>Default Category/Used Cars</categories>
     <name>Audi A4</name>
     <price>40200</price>
     <color>white</color>
     <qty>1</qty>
+    <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260723.jpg</base_image>
   </item>
