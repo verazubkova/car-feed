@@ -9,6 +9,7 @@
     <price>19500</price>
     <color>red</color>
     <qty>1</qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261443.jpg</base_image>
@@ -22,6 +23,7 @@
     <price>19850</price>
     <color>blue</color>
     <qty>1</qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260979.jpg</base_image>
@@ -35,6 +37,7 @@
     <price>12000</price>
     <color>white</color>
     <qty>1</qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261064.jpg</base_image>
@@ -48,6 +51,7 @@
     <price>25950</price>
     <color>black</color>
     <qty>1</qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261186.jpg</base_image>
@@ -61,6 +65,7 @@
     <price>40200</price>
     <color>white</color>
     <qty>1</qty>
+    <use_config_min_sale_qty>1</use_config_min_sale_qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260723.jpg</base_image>
