@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <sku>10261442</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Honda CR-V</name>
+    <price>19500</price>
+    <color>red</color>
+    <qty>1</qty>
+    <product_websites>base</product_websites>
+  </item>
+  <item>
+    <sku>10260978</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Volkswagen Passat</name>
+    <price>19850</price>
+    <color>blue</color>
+    <qty>1</qty>
+    <product_websites>base</product_websites>
+  </item>
+  <item>
+    <sku>10260928</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Skoda Octavia</name>
+    <price>12000</price>
+    <color>white</color>
+    <qty>1</qty>
+    <product_websites>base</product_websites>
+  </item>
+  <item>
+    <sku>10260828</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Volkswagen Tiguan</name>
+    <price>25950</price>
+    <color>black</color>
+    <qty>1</qty>
+    <product_websites>base</product_websites>
+  </item>
+  <item>
+    <sku>10260623</sku>
+    <attribute_set_code>Default</attribute_set_code>
+    <product_type>simple</product_type>
+    <name>Audi A4</name>
+    <price>40200</price>
+    <color>white</color>
+    <qty>1</qty>
+    <product_websites>base</product_websites>
+  </item>
+</Items>
