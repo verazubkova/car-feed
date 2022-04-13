@@ -53,8 +53,8 @@
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image>https://github.com/njanibek/car-feed/blob/main/img/10260828/1.jpg</base_image>
-    <additional_images>https://github.com/njanibek/car-feed/blob/main/img/10260828/2.jpg,https://github.com/njanibek/car-feed/blob/main/img/10260828/3.jpg,https://github.com/njanibek/car-feed/blob/main/img/10260828/4.jpg,https://github.com/njanibek/car-feed/blob/main/img/10260828/5.jpg,https://github.com/njanibek/car-feed/blob/main/img/10260828/6.jpg</additional_images>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/6.jpg</additional_images>
   </item>
   <item>
     <sku>10260623</sku>
