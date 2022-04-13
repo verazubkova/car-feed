@@ -36,7 +36,6 @@
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260979.jpg</base_image>
   </item>
   <item>
     <sku>10260928</sku>
@@ -49,7 +48,6 @@
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261064.jpg</base_image>
   </item>
   <item>
     <sku>10260828</sku>
@@ -62,7 +60,6 @@
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261186.jpg</base_image>
   </item>
   <item>
     <sku>10260623</sku>
@@ -75,6 +72,5 @@
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image>https://github.com/njanibek/car-feed/raw/main/img/10260723.jpg</base_image>
   </item>
 </Items>
