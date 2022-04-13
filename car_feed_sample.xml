@@ -14,13 +14,13 @@
     <base_image>https://github.com/njanibek/car-feed/raw/main/img/10261443.jpg</base_image>
   </item>
   <item>
-    <sku>10260978</sku>
+    <sku>10245312</sku>
     <attribute_set_code>Default</attribute_set_code>
     <product_type>simple</product_type>
     <categories>Default Category/Used Cars</categories>
     <name>Volkswagen Passat</name>
-    <price>19850</price>
-    <color>blue</color>
+    <price>21950</price>
+    <color>black</color>
     <qty>5</qty>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
