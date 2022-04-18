@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>base</product_websites>
+    <base_image></base_image>
+    <additional_images></additional_images>
+    <sku>10262384</sku>
+    <name>Skoda Superb 1.8 132kW aut</name>
+    <qty>3</qty>
+
+    <make>Skoda</make>
+    <year>2017</year>
+    <vehicle_id>10262384 / E890223099</vehicle_id>
+    <country>Estonia</country>
+    <dealer>Møller Auto Pärnu</dealer>
+    <price>18490</price>
+    <first_registered>05/2017</first_registered>
+    <mileage>69858</mileage>
+    <license_plate>151BTH</license_plate>
+    <vin_code>TMBAL7NP3H7557756</vin_code>
+    <technical_inspection>03/2023</technical_inspection>
+    <displacement>1800 cm³</displacement>
+    <fuel>gasoline</fuel>
+    <power>132</power>
+    <color>Red</color>
+    <body_style>sedan</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Automatic</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty>12 month / 20000 km used cars warranty</warranty>
+    <exchange>Yes<exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>Automatic</gearbox>
+    <safety_and_security>Power steering,ABS brakes,ESP stability control,Electromechanical parking brake,Auto hold function,Third brake light,Seat belts in front with tensioners,Isofix child seat mounting,Central locking with remote control,Immobilizer, start blocker</safety_and_security>
+    <assistant_systems>Cruise control,Forward Collision Warning "Front Assist"</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels,Winter tires,Summer tires</tyres_and_wheels>
+    <lights>Fog lights front,Fog lights rear,Separate daytime running lights</lights>
+    <multimedia>Radio,Touch-screen,SD card slot,AUX-IN jack,USB-interface,Bluetooth interface,Multi-function display</multimedia>
+    <seats>Textile seats,Heated seats in front,Folding rear seat backrest,Front armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Leather gearshift knob,Cup holders,Electrical windows in front and rear,Rear window heating,Interior rubber mats,Electrically adjustable mirrors,Heated mirrors</interior_comfort>
+    <heating_climatisation>Air conditioning system,Glove box with cooling</heating_climatisation>
+    <other_equipment>Service book,Warranty</other_equipment>
+    <lines_pakages></lines_pakages>
+  </item>
+</Items>
