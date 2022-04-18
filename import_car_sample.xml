@@ -6,11 +6,11 @@
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
     <product_websites>base</product_websites>
-    <base_image></base_image>
-    <additional_images></additional_images>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262384/10262384-1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262384/10262384-2.jpg</additional_images>
     <sku>10262384</sku>
     <name>Skoda Superb 1.8 132kW aut</name>
-    <qty>3</qty>
+    <qty>10</qty>
     <make>Skoda</make>
     <year>2017</year>
     <vehicle_id>10262384 / E890223099</vehicle_id>
@@ -44,5 +44,95 @@
     <heating_climatisation>Air conditioning system,Glove box with cooling</heating_climatisation>
     <other_equipment>Service book,Warranty</other_equipment>
     <lines_pakages></lines_pakages>
+  </item>
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>base</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-3.jpg</additional_images>
+    <sku>10260056</sku>
+    <name>Audi Q3 Sportback 1.5 110kW aut</name>
+    <qty>2</qty>
+    <make>Audi</make>
+    <year>2021</year>
+    <vehicle_id>10260056</vehicle_id>
+    <country>Lithuania</country>
+    <dealer>Møller Auto Keturi žiedai Audi</dealer>
+    <price>40000</price>
+    <first_registered>01/11/2021</first_registered>
+    <mileage>15555</mileage>
+    <license_plate></license_plate>
+    <vin_code>WAUZZZF33M1041108</vin_code>
+    <technical_inspection></technical_inspection>
+    <displacement>1498 cm³</displacement>
+    <fuel>gasoline</fuel>
+    <power>110</power>
+    <color>White</color>
+    <body_style>suv</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Automatic</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty>Manufacturer warranty</warranty>
+    <exchange></exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>S-tronic</gearbox>
+    <safety_and_security>Power steering,ABS brakes,Auto hold function,Central locking</safety_and_security>
+    <assistant_systems>Cruise control,Rearview camera,Parking sensors in front and rear</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
+    <lights>LED headlights,LED rear lights</lights>
+    <multimedia>Radio,Touch-screen,AUX-IN jack,USB-interface,Navigation system,Bluetooth interface</multimedia>
+    <seats>Textile seats,Heated seats in front,Front armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Cup holders,Heated mirrors</interior_comfort>
+    <heating_climatisation>Air conditioning system</heating_climatisation>
+    <other_equipment>Roof railings,Service book,Warranty,Metallic paint</other_equipment>
+    <lines_pakages></lines_pakages>
+  </item>
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>base</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-4.jpg</additional_images>
+    <sku>10262124</sku>
+    <name>Volkswagen Tiguan R-Line FNRRERFK 1.5 110kW aut</name>
+    <qty>3</qty>
+    <make>Volkswagen</make>
+    <year>2021</year>
+    <vehicle_id>10262124 / E862224616</vehicle_id>
+    <country>Lithuania</country>
+    <dealer>Møller Auto Vilnius Volkswagen</dealer>
+    <price>39000</price>
+    <first_registered>02/04/2021</first_registered>
+    <mileage>23393</mileage>
+    <license_plate>JSP777</license_plate>
+    <vin_code>WVGZZZ5NZMW540698</vin_code>
+    <technical_inspection>09/04/2024</technical_inspection>
+    <displacement>1500 cm³</displacement>
+    <fuel>gasoline</fuel>
+    <power>150</power>
+    <color>Blue</color>
+    <body_style>suv</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Automatic</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty>Manufacturer warranty</warranty>
+    <exchange></exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>Automatic</gearbox>
+    <safety_and_security>Electromechanical power steering,ABS brakes,ESP stability control,ESC stability control,Electromechanical parking brake,Auto hold function,Fullsize airbags,Isofix child seat mounting,Central locking with remote control,"Easy Open" package,Anti-theft alarm system with interior monitoring and towing protection,Immobilizer, start blocker,Rain sensor</safety_and_security>
+    <assistant_systems>Adaptive cruise control,Speed limiter,Forward Collision Warning "Front Assist",Lane change assistant "Side Assist",High beam control "Light Assist",Rearview camera,Parking sensors in front and rear,Parallel and perpendicular parking assistant "Park Assist"</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels,Collapsible spare wheel</tyres_and_wheels>
+    <lights>Fog lights front,Fog lights rear,Separate daytime running lights,IQ.LIGHT</lights>
+    <multimedia>Radio,Touch-screen,AUX-IN jack,USB-interface,App Connect,Harman Kardon sound system,Navigation system,Bluetooth interface,Mobile phone interface,Multi-function display,Multi-function color display,Active Info Display</multimedia>
+    <seats>Comfort seats,Heated seats in front,Front armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Sport steering wheel,Adjustable steering wheel,Steering wheel with shift paddles,Leather gearshift knob,Cup holders,Electrical windows in front and rear,Tinted windows,Electrically adjustable mirrors,Folding mirrors</interior_comfort>
+    <heating_climatisation>Automatic Air Care "Climatronic" 3 zone</heating_climatisation>
+    <lines_pakages>R-line interior,R-line exterior</lines_pakages>
+    <other_equipment>Roof railings,Service book,Warranty,Metallic paint</other_equipment>
   </item>
 </Items>
