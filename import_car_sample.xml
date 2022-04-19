@@ -12,6 +12,7 @@
     <name>Skoda Superb 1.8 132kW aut</name>
     <qty>10</qty>
     <make>Skoda</make>
+    <model></model>
     <year>2017</year>
     <vehicle_id>10262384 / E890223099</vehicle_id>
     <country>Estonia</country>
@@ -57,6 +58,7 @@
     <name>Audi Q3 Sportback 1.5 110kW aut</name>
     <qty>2</qty>
     <make>Audi</make>
+    <model></model>
     <year>2021</year>
     <vehicle_id>10260056</vehicle_id>
     <country>Lithuania</country>
@@ -102,6 +104,7 @@
     <name>Volkswagen Tiguan R-Line FNRRERFK 1.5 110kW aut</name>
     <qty>3</qty>
     <make>Volkswagen</make>
+    <model></model>
     <year>2021</year>
     <vehicle_id>10262124 / E862224616</vehicle_id>
     <country>Lithuania</country>
