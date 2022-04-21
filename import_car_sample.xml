@@ -5,137 +5,145 @@
     <attribute_set_code>Car</attribute_set_code>
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
-    <product_websites>base</product_websites>
-    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262384/10262384-1.jpg</base_image>
-    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262384/10262384-2.jpg</additional_images>
-    <sku>10262384</sku>
-    <name>Skoda Superb 1.8 132kW aut</name>
-    <qty>10</qty>
-    <make>Skoda</make>
-    <model></model>
-    <year>2017</year>
-    <vehicle_id>10262384 / E890223099</vehicle_id>
-    <country>Estonia</country>
-    <dealer>Møller Auto Pärnu</dealer>
-    <price>18490</price>
-    <first_registered>02/05/2017</first_registered>
-    <mileage>69858</mileage>
-    <license_plate>151BTH</license_plate>
-    <vin_code>TMBAL7NP3H7557756</vin_code>
-    <technical_inspection>04/03/2023</technical_inspection>
-    <displacement>1800 cm³</displacement>
-    <fuel>gasoline</fuel>
-    <power>132</power>
-    <color>Red</color>
-    <body_style>sedan</body_style>
+    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/9.jpg</additional_images>
+    <sku>10261442</sku>
+    <name>Honda CR-V Nr.73 1.6 118kW aut</name>
+    <qty>5</qty>
+    <make>Honda</make>
+    <model>CR-V</model>
+    <year>2015</year>
+    <vehicle_id>10261442 / E871223131</vehicle_id>
+    <country>Latvia</country>
+    <dealer>Møller Auto Krasta Volkswagen</dealer>
+    <price>19500.00</price>
+    <first_registered>12/2015</first_registered>
+    <mileage>132 133 km</mileage>
+    <mileage_search>132133.00</mileage_search>
+    <license_plate>ND3795</license_plate>
+    <vin_code>SHSRE6890FU512585</vin_code>
+    <technical_inspection>04/2023</technical_inspection>
+    <displacement>1600 cm³</displacement>
+    <fuel>diesel</fuel>
+    <power>160 hp (118 kW)</power>
+    <power_search>118.00</power_search>
+    <car_color>red</car_color>
+    <body_style>suv</body_style>
     <doors>4/5 doors</doors>
     <gearbox_search>Automatic</gearbox_search>
-    <drivetrain_search>front</drivetrain_search>
-    <warranty>12 month / 20000 km used cars warranty</warranty>
+    <drivetrain_search>four-wheel</drivetrain_search>
+    <warranty></warranty>
     <exchange>Yes</exchange>
     <drivetrain_suspension></drivetrain_suspension>
     <gearbox>Automatic</gearbox>
-    <safety_and_security>Power steering,ABS brakes,ESP stability control,Electromechanical parking brake,Auto hold function,Third brake light,Seat belts in front with tensioners,Isofix child seat mounting,Central locking with remote control,Immobilizer, start blocker</safety_and_security>
-    <assistant_systems>Cruise control,Forward Collision Warning "Front Assist"</assistant_systems>
-    <tyres_and_wheels>Light alloy wheels,Winter tires,Summer tires</tyres_and_wheels>
-    <lights>Fog lights front,Fog lights rear,Separate daytime running lights</lights>
-    <multimedia>Radio,Touch-screen,SD card slot,AUX-IN jack,USB-interface,Bluetooth interface,Multi-function display</multimedia>
-    <seats>Textile seats,Heated seats in front,Folding rear seat backrest,Front armrest</seats>
-    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Leather gearshift knob,Cup holders,Electrical windows in front and rear,Rear window heating,Interior rubber mats,Electrically adjustable mirrors,Heated mirrors</interior_comfort>
-    <heating_climatisation>Air conditioning system,Glove box with cooling</heating_climatisation>
-    <other_equipment>Service book,Warranty</other_equipment>
-    <lines_pakages></lines_pakages>
-  </item>
-  <item>
-    <product_type>simple</product_type>
-    <attribute_set_code>Car</attribute_set_code>
-    <categories>Default Category/Used Cars</categories>
-    <visibility>Catalog, Search</visibility>
-    <product_websites>base</product_websites>
-    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-1.jpg</base_image>
-    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260056/10260056-3.jpg</additional_images>
-    <sku>10260056</sku>
-    <name>Audi Q3 Sportback 1.5 110kW aut</name>
-    <qty>2</qty>
-    <make>Audi</make>
-    <model></model>
-    <year>2021</year>
-    <vehicle_id>10260056</vehicle_id>
-    <country>Lithuania</country>
-    <dealer>Møller Auto Keturi žiedai Audi</dealer>
-    <price>40000</price>
-    <first_registered>01/11/2021</first_registered>
-    <mileage>15555</mileage>
-    <license_plate></license_plate>
-    <vin_code>WAUZZZF33M1041108</vin_code>
-    <technical_inspection></technical_inspection>
-    <displacement>1498 cm³</displacement>
-    <fuel>gasoline</fuel>
-    <power>110</power>
-    <color>White</color>
-    <body_style>suv</body_style>
-    <doors>4/5 doors</doors>
-    <gearbox_search>Automatic</gearbox_search>
-    <drivetrain_search>front</drivetrain_search>
-    <warranty>Manufacturer warranty</warranty>
-    <exchange></exchange>
-    <drivetrain_suspension></drivetrain_suspension>
-    <gearbox>S-tronic</gearbox>
-    <safety_and_security>Power steering,ABS brakes,Auto hold function,Central locking</safety_and_security>
+    <safety_and_security>ABS brakes,EDS/ASR traction control,Isofix child seat mounting,Central locking with remote control</safety_and_security>
     <assistant_systems>Cruise control,Rearview camera,Parking sensors in front and rear</assistant_systems>
     <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
-    <lights>LED headlights,LED rear lights</lights>
-    <multimedia>Radio,Touch-screen,AUX-IN jack,USB-interface,Navigation system,Bluetooth interface</multimedia>
-    <seats>Textile seats,Heated seats in front,Front armrest</seats>
-    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Cup holders,Heated mirrors</interior_comfort>
+    <lights>Fog lights front</lights>
+    <multimedia>Touch-screen,CD/MP3 playback,Navigation system,Bluetooth interface,Multi-function display,Multi-function color display</multimedia>
+    <seats>Leather seats,Heated seats in front,Electrically adjustable seats,Electrically adjustable seats with memory,Folding rear seat backrest,Front armrest</seats>
+    <interior_comfort>Multifunctional steering wheel,Electrical windows in front and rear,Tinted windows,Rear window heating,Electrical tailgate opening,Electrically adjustable mirrors,Heated mirrors,Folding mirrors,Electrical sunroof</interior_comfort>
     <heating_climatisation>Air conditioning system</heating_climatisation>
-    <other_equipment>Roof railings,Service book,Warranty,Metallic paint</other_equipment>
     <lines_pakages></lines_pakages>
+    <other_equipment>Luggage cover,Metallic paint</other_equipment>
   </item>
   <item>
     <product_type>simple</product_type>
     <attribute_set_code>Car</attribute_set_code>
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
-    <product_websites>base</product_websites>
-    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-1.jpg</base_image>
-    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10262124/10262124-4.jpg</additional_images>
-    <sku>10262124</sku>
-    <name>Volkswagen Tiguan R-Line FNRRERFK 1.5 110kW aut</name>
-    <qty>3</qty>
+    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/9.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/10.jpg</additional_images>
+    <sku>10260828</sku>
+    <name>Blank</name>
+    <qty>8</qty>
     <make>Volkswagen</make>
-    <model></model>
-    <year>2021</year>
-    <vehicle_id>10262124 / E862224616</vehicle_id>
-    <country>Lithuania</country>
-    <dealer>Møller Auto Vilnius Volkswagen</dealer>
-    <price>39000</price>
-    <first_registered>02/04/2021</first_registered>
-    <mileage>23393</mileage>
-    <license_plate>JSP777</license_plate>
-    <vin_code>WVGZZZ5NZMW540698</vin_code>
-    <technical_inspection>09/04/2024</technical_inspection>
-    <displacement>1500 cm³</displacement>
-    <fuel>gasoline</fuel>
-    <power>150</power>
-    <color>Blue</color>
+    <model>Tiguan</model>
+    <year>2017</year>
+    <vehicle_id>10260828</vehicle_id>
+    <country>Estonia</country>
+    <dealer>Møller Auto Savanoriai VW</dealer>
+    <price>25950.00</price>
+    <first_registered>10/2017</first_registered>
+    <mileage>109 749 km</mileage>
+    <mileage_search>109749.00</mileage_search>
+    <license_plate>MFU551</license_plate>
+    <vin_code>WVGZZZ5NZJW840265</vin_code>
+    <technical_inspection>10/2022</technical_inspection>
+    <displacement>1968 cm³</displacement>
+    <fuel>diesel</fuel>
+    <power>150 hp (110 kW)</power>
+    <power_search>110.00</power_search>
+    <car_color>black</car_color>
     <body_style>suv</body_style>
     <doors>4/5 doors</doors>
     <gearbox_search>Automatic</gearbox_search>
     <drivetrain_search>front</drivetrain_search>
-    <warranty>Manufacturer warranty</warranty>
+    <warranty>6 month / 10000 km used cars warranty</warranty>
     <exchange></exchange>
     <drivetrain_suspension></drivetrain_suspension>
-    <gearbox>Automatic</gearbox>
-    <safety_and_security>Electromechanical power steering,ABS brakes,ESP stability control,ESC stability control,Electromechanical parking brake,Auto hold function,Fullsize airbags,Isofix child seat mounting,Central locking with remote control,"Easy Open" package,Anti-theft alarm system with interior monitoring and towing protection,Immobilizer, start blocker,Rain sensor</safety_and_security>
-    <assistant_systems>Adaptive cruise control,Speed limiter,Forward Collision Warning "Front Assist",Lane change assistant "Side Assist",High beam control "Light Assist",Rearview camera,Parking sensors in front and rear,Parallel and perpendicular parking assistant "Park Assist"</assistant_systems>
-    <tyres_and_wheels>Light alloy wheels,Collapsible spare wheel</tyres_and_wheels>
-    <lights>Fog lights front,Fog lights rear,Separate daytime running lights,IQ.LIGHT</lights>
-    <multimedia>Radio,Touch-screen,AUX-IN jack,USB-interface,App Connect,Harman Kardon sound system,Navigation system,Bluetooth interface,Mobile phone interface,Multi-function display,Multi-function color display,Active Info Display</multimedia>
-    <seats>Comfort seats,Heated seats in front,Front armrest</seats>
-    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Sport steering wheel,Adjustable steering wheel,Steering wheel with shift paddles,Leather gearshift knob,Cup holders,Electrical windows in front and rear,Tinted windows,Electrically adjustable mirrors,Folding mirrors</interior_comfort>
-    <heating_climatisation>Automatic Air Care "Climatronic" 3 zone</heating_climatisation>
-    <lines_pakages>R-line interior,R-line exterior</lines_pakages>
-    <other_equipment>Roof railings,Service book,Warranty,Metallic paint</other_equipment>
+    <gearbox>Automatic,DSG</gearbox>
+    <safety_and_security>Power steering,ABS brakes,ESP stability control,EDS/ASR traction control,Electromechanical parking brake,Auto hold function,Isofix child seat mounting,Central locking with remote control,Immobilizer start blocker,Rain sensor</safety_and_security>
+    <assistant_systems>Cruise control,Adaptive cruise control,Speed limiter,Forward Collision Warning "Front Assist",Heading control "Lane Assist",High beam control "Light Assist","Emergency Assist",Rearview camera,360° view cameras,Parking sensors in front and rear,Parallel and perpendicular parking assistant "Park Assist"</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
+    <lights>Separate daytime running lights,LED headlights automatic headlight-range adjustment,LED rear lights</lights>
+    <multimedia>Radio,Touch-screen,CD/MP3 playback,SD card slot,AUX-IN jack,USB-interface,Navigation system,Bluetooth interface,Mobile phone interface,Multi-function display,Driver information system</multimedia>
+    <seats>Alcantara leather seats,Comfort seats,Heated seats in front,Front armrest,Rear armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Electrical windows in front and rear,Electrical tailgate opening,Electrically adjustable mirrors,Heated mirrors,Folding mirrors</interior_comfort>
+    <heating_climatisation>Automatic air conditioning system "Climatronic"</heating_climatisation>
+    <lines_pakages>Comfortline</lines_pakages>
+    <other_equipment>Roof railings,Service book,Warranty</other_equipment>
   </item>
+<?ignore
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/8.jpg</additional_images>
+    <sku>10260928</sku>
+    <name>Skoda Octavia 1.6 81kW man</name>
+    <qty>11</qty>
+    <make>Skoda</make>
+    <model>Octavia</model>
+    <year>2016</year>
+    <vehicle_id>10260928 / E755228121</vehicle_id>
+    <country>Latvia</country>
+    <dealer>Møller Auto Lidosta Volkswagen</dealer>
+    <price>12000.00</price>
+    <first_registered>06/2016</first_registered>
+    <mileage>151 620 km</mileage>
+    <mileage_search>151620</mileage_search>
+    <license_plate>G0239974</license_plate>
+    <vin_code>TMBJG7NE9G0239974</vin_code>
+    <technical_inspection>05/2023</technical_inspection>
+    <displacement>1600 cm³</displacement>
+    <fuel>diesel</fuel>
+    <power>110 hp (81 kW)</power>
+    <power_search>81.00</power_search>
+    <car_color>white</car_color>
+    <body_style>wagon</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Manual</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty></warranty>
+    <exchange></exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>Mechanic</gearbox>
+    <safety_and_security>Power steering,ABS brakes,ESP stability control,ESC stability control,EDS/ASR traction control,Third brake light,Seat belts in front with tensioners,3-point seat belts in the rear,Isofix child seat mounting,Rain senssor</safety_and_security>
+    <assistant_systems>Cruise control,Speed limiter,Forward Collision Warning "Front Assist",Parking sensors in front and rear</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
+    <lights>Halogen lights,Fog lights front,Separate daytime running lights</lights>
+    <multimedia>Radio,Touch-screen,CD/MP3 playback,SD card slot,USB-interface,Bluetooth interface,Mobile phone interface</multimedia>
+    <seats>Textile seats,Heated seats in front,Front armrest,Rear armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Cup holders,Electrical windows in front and rear,Rear window heating,Electrically adjustable mirrors,Heated mirrors</interior_comfort>
+    <heating_climatisation>Automatic air conditioning system "Climatronic"</heating_climatisation>
+    <lines_pakages></lines_pakages>
+    <other_equipment>Roof railings,Service book</other_equipment>
+  </item>
+?>
 </Items>
