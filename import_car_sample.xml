@@ -58,13 +58,13 @@
     <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/1.jpg</base_image>
     <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/9.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/10.jpg</additional_images>
     <sku>10260828</sku>
-    <name>Blank</name>
+    <name>Volkswagen Tiguan 2017m. 2.0TDI 150AG (Nr.102) TTETRAFC 2.0 110kW aut</name>
     <qty>8</qty>
     <make>Volkswagen</make>
     <model>Tiguan</model>
     <year>2017</year>
     <vehicle_id>10260828</vehicle_id>
-    <country>Estonia</country>
+    <country>Lithuania</country>
     <dealer>Møller Auto Savanoriai VW</dealer>
     <price>25950.00</price>
     <first_registered>10/2017</first_registered>
@@ -97,5 +97,54 @@
     <heating_climatisation>Automatic air conditioning system "Climatronic"</heating_climatisation>
     <lines_pakages>Comfortline</lines_pakages>
     <other_equipment>Roof railings,Service book,Warranty</other_equipment>
+  </item>
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>base,moller_lt,moller_ee</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/8.jpg</additional_images>
+    <sku>10260928</sku>
+    <name>Skoda Octavia 1.6 81kW man</name>
+    <qty>11</qty>
+    <make>Skoda</make>
+    <model>Octavia</model>
+    <year>2016</year>
+    <vehicle_id>10260928 / E755228121</vehicle_id>
+    <country>Latvia</country>
+    <dealer>Møller Auto Lidosta Volkswagen</dealer>
+    <price>12000.00</price>
+    <first_registered>06/2016</first_registered>
+    <mileage>151 620 km</mileage>
+    <mileage_search>151620</mileage_search>
+    <license_plate>G0239974</license_plate>
+    <vin_code>TMBJG7NE9G0239974</vin_code>
+    <technical_inspection>05/2023</technical_inspection>
+    <displacement>1600 cm³</displacement>
+    <fuel>diesel</fuel>
+    <power>110 hp (81 kW)</power>
+    <power_search>81.00</power_search>
+    <car_color>white</car_color>
+    <body_style>wagon</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Manual</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty></warranty>
+    <exchange></exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>Mechanic</gearbox>
+    <equipment_search>Cruise control,Light alloy wheels,Mobile phone interface,</equipment_search>
+    <safety_and_security>Power steering,ABS brakes,ESP stability control,ESC stability control,EDS/ASR traction control,Third brake light,Seat belts in front with tensioners,3-point seat belts in the rear,Isofix child seat mounting,Rain senssor</safety_and_security>
+    <assistant_systems>Cruise control,Speed limiter,Forward Collision Warning "Front Assist",Parking sensors in front and rear</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
+    <lights>Halogen lights,Fog lights front,Separate daytime running lights</lights>
+    <multimedia>Radio,Touch-screen,CD/MP3 playback,SD card slot,USB-interface,Bluetooth interface,Mobile phone interface</multimedia>
+    <seats>Textile seats,Heated seats in front,Front armrest,Rear armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Cup holders,Electrical windows in front and rear,Rear window heating,Electrically adjustable mirrors,Heated mirrors</interior_comfort>
+    <heating_climatisation>Automatic air conditioning system "Climatronic"</heating_climatisation>
+    <lines_pakages></lines_pakages>
+    <other_equipment>Roof railings,Service book</other_equipment>
   </item>
 </Items>
