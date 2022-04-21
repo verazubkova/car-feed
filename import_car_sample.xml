@@ -5,7 +5,7 @@
     <attribute_set_code>Car</attribute_set_code>
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
-    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <product_websites>base,moller_lt,moller_ee</product_websites>
     <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/1.jpg</base_image>
     <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10261442/9.jpg</additional_images>
     <sku>10261442</sku>
@@ -53,7 +53,7 @@
     <attribute_set_code>Car</attribute_set_code>
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
-    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <product_websites>base,moller_lt,moller_ee</product_websites>
     <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/1.jpg</base_image>
     <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/9.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/10.jpg</additional_images>
     <sku>10260828</sku>
@@ -102,7 +102,7 @@
     <attribute_set_code>Car</attribute_set_code>
     <categories>Default Category/Used Cars</categories>
     <visibility>Catalog, Search</visibility>
-    <product_websites>moller_lv,moller_lt,moller_ee</product_websites>
+    <product_websites>base,moller_lt,moller_ee</product_websites>
     <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/1.jpg</base_image>
     <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260928/8.jpg</additional_images>
     <sku>10260928</sku>
