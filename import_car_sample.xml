@@ -37,6 +37,7 @@
     <exchange>Yes</exchange>
     <drivetrain_suspension></drivetrain_suspension>
     <gearbox>Automatic</gearbox>
+    <equipment_search>Cruise control,Rearview camera,Light alloy wheels,Navigation system,Leather seats,Electrical tailgate opening</equipment_search>
     <safety_and_security>ABS brakes,EDS/ASR traction control,Isofix child seat mounting,Central locking with remote control</safety_and_security>
     <assistant_systems>Cruise control,Rearview camera,Parking sensors in front and rear</assistant_systems>
     <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
@@ -47,5 +48,54 @@
     <heating_climatisation>Air conditioning system</heating_climatisation>
     <lines_pakages></lines_pakages>
     <other_equipment>Luggage cover,Metallic paint</other_equipment>
+  </item>
+  <item>
+    <product_type>simple</product_type>
+    <attribute_set_code>Car</attribute_set_code>
+    <categories>Default Category/Used Cars</categories>
+    <visibility>Catalog, Search</visibility>
+    <product_websites>base,moller_lt,moller_ee</product_websites>
+    <base_image>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/1.jpg</base_image>
+    <additional_images>https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/2.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/3.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/4.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/5.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/6.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/7.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/8.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/9.jpg,https://raw.githubusercontent.com/njanibek/car-feed/main/img/10260828/10.jpg</additional_images>
+    <sku>10260828</sku>
+    <name>Blank</name>
+    <qty>8</qty>
+    <make>Volkswagen</make>
+    <model>Tiguan</model>
+    <year>2017</year>
+    <vehicle_id>10260828</vehicle_id>
+    <country>Estonia</country>
+    <dealer>Møller Auto Savanoriai VW</dealer>
+    <price>25950.00</price>
+    <first_registered>10/2017</first_registered>
+    <mileage>109 749 km</mileage>
+    <mileage_search>109749.00</mileage_search>
+    <license_plate>MFU551</license_plate>
+    <vin_code>WVGZZZ5NZJW840265</vin_code>
+    <technical_inspection>10/2022</technical_inspection>
+    <displacement>1968 cm³</displacement>
+    <fuel>diesel</fuel>
+    <power>150 hp (110 kW)</power>
+    <power_search>110.00</power_search>
+    <car_color>black</car_color>
+    <body_style>suv</body_style>
+    <doors>4/5 doors</doors>
+    <gearbox_search>Automatic</gearbox_search>
+    <drivetrain_search>front</drivetrain_search>
+    <warranty>6 month / 10000 km used cars warranty</warranty>
+    <exchange></exchange>
+    <drivetrain_suspension></drivetrain_suspension>
+    <gearbox>Automatic,DSG</gearbox>
+    <equipment_search>Cruise control,Heading control "Lane Assist",High beam control "Light Assist",Rearview camera,Light alloy wheels,LED headlights automatic headlight-range adjustment,Navigation system,Mobile phone interface,Leather seats,Electrical tailgate opening,Warranty</equipment_search>
+    <safety_and_security>Power steering,ABS brakes,ESP stability control,EDS/ASR traction control,Electromechanical parking brake,Auto hold function,Isofix child seat mounting,Central locking with remote control,Immobilizer start blocker,Rain sensor</safety_and_security>
+    <assistant_systems>Cruise control,Adaptive cruise control,Speed limiter,Forward Collision Warning "Front Assist",Heading control "Lane Assist",High beam control "Light Assist","Emergency Assist",Rearview camera,360° view cameras,Parking sensors in front and rear,Parallel and perpendicular parking assistant "Park Assist"</assistant_systems>
+    <tyres_and_wheels>Light alloy wheels</tyres_and_wheels>
+    <lights>Separate daytime running lights,LED headlights automatic headlight-range adjustment,LED rear lights</lights>
+    <multimedia>Radio,Touch-screen,CD/MP3 playback,SD card slot,AUX-IN jack,USB-interface,Navigation system,Bluetooth interface,Mobile phone interface,Multi-function display,Driver information system</multimedia>
+    <seats>Alcantara leather seats,Comfort seats,Heated seats in front,Front armrest,Rear armrest</seats>
+    <interior_comfort>Leather steering wheel,Multifunctional steering wheel,Adjustable steering wheel,Electrical windows in front and rear,Electrical tailgate opening,Electrically adjustable mirrors,Heated mirrors,Folding mirrors</interior_comfort>
+    <heating_climatisation>Automatic air conditioning system "Climatronic"</heating_climatisation>
+    <lines_pakages>Comfortline</lines_pakages>
+    <other_equipment>Roof railings,Service book,Warranty</other_equipment>
   </item>
 </Items>
